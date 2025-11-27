@@ -10,7 +10,7 @@ from pathlib import Path
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
-INPUT_XLSX = "collecte_de_donnee_projet/combined_spreads_data.xlsx"
+INPUT_XLSX = "collecte_de_donnee_projet/utils/combined_spreads_data.xlsx"
 OUTPUT_XLSX = "electre_tri_resultats.xlsx"
 
 # Critères ELECTRE TRI - Poids équilibrés pour meilleure discrimination
